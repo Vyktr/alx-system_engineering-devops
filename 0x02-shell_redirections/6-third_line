@@ -1,2 +1,2 @@
-#!/bin/bash
-sed -n 3 inacta | tail -n 1
+#!/bin/bas
+head -n 3 inacta | tail -n 1
